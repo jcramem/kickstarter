@@ -10,6 +10,8 @@ The analysis consisted of two parts, a review of outcomes based on kickstarter (
 
 Several fields were added to the original MS Excel file that may require lookup or reference. Specifically, the user must be comfortable: (a) separating one column into two using *Test to Column* under the *Data* tab; (b) converting Unix timestamps; and (c) using the *Year* function.  
 
+![Excel Field Additions](Excel Field Additions.png).
+
 ### Analysis of Outcomes Based on Launch Date
 
 The initial investigation looked at plays with kickstarter campaigns beginning in January 2011 through April 2017 in 21 countries. Data were grouped by starting month for all years
