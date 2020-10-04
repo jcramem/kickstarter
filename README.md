@@ -18,6 +18,7 @@ The initial investigation looked at plays with kickstarter campaigns beginning i
 
 The second investigation also looked at plays with kickstarter campaigns beginning in January 2011 through April 2017 in 21 countries that were either successful, failed, or canceled. In this case, data were grouped by initial goal and counted according to final outcome. The percentage of cases for each final outcome was also calculated. The resulting MS Excel pivot table looked like this: 
 
+![Outcomes_Based_on_Goal_Table](Outcomes_Based_on_Goal_Table.png).
 
 ### Challenges and Difficulties Encountered
 
