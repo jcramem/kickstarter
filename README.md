@@ -16,7 +16,9 @@ The following illustrates the correct result of separating columns (red), conver
 
 ### Analysis of Outcomes Based on Launch Date
 
-The initial investigation looked at plays with kickstarter campaigns beginning in January 2011 through April 2017 in 21 countries. Data were grouped by starting month for all years
+The initial investigation looked at plays with kickstarter campaigns beginning in January 2011 through April 2017 in 21 countries that were either successful, failed, or canceled. Data were grouped by starting month for all years and counted according to final outcome. The resulting MS Excel pivot table should look like this: 
+
+
 
 ![Theater Outcomes vs Launch](Theater_Outcomes_vs_Launch.png).
 
