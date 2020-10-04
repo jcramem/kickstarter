@@ -18,7 +18,7 @@ The initial investigation looked at plays with kickstarter campaigns beginning i
 
 Test 
 
-![Outcomes Based on Goal](Outcomes Based on Goal.png).
+![Outcomes_Based_on_Goal](Outcomes_Based_on_Goal.png).
 
 ### Challenges and Difficulties Encountered
 
