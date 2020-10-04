@@ -20,13 +20,10 @@ The initial investigation looked at plays with kickstarter campaigns beginning i
 
 
 
-![Theater Outcomes vs Launch](Theater_Outcomes_vs_Launch.png).
-
 ### Analysis of Outcomes Based on Goals
 
 Test 
 
-![Outcomes_Based_on_Goal](Outcomes_Based_on_Goal.png).
 
 ### Challenges and Difficulties Encountered
 
