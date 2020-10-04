@@ -6,11 +6,12 @@ The purpose of this project is to document campaign outcomes based on launch dat
 
 ## Analysis and Challenges
 
-The analysis consisted of two parts, a review of outcomes based on kickstarter (a) launch dates, and (b) goals. Data were provided by the organizers of the University of Texas Data Analytics and visualization Boot Camp. Data were provided for several types of performance categories in addition to plays.   
+The analysis consisted of two parts, a review of outcomes based on kickstarter (a) launch dates, and (b) goals (outlined below). Data, consistenig of several performance types in addition to plays, were provided by the organizers of the University of Texas Data Analytics and Visualization Boot Camp. 
 
 ### Analysis of Outcomes Based on Launch Date
 
-The initial investigation looked at plays with kickstarter campaigns beginning in January 2011 through April 2017 in 21 countries. A review of          
+The initial investigation looked at plays with kickstarter campaigns beginning in January 2011 through April 2017 in 21 countries. Data were grouped by starting month
+
 
 ### Analysis of Outcomes Based on Goals
 
