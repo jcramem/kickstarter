@@ -6,7 +6,7 @@ The purpose of this project is to document campaign outcomes based on launch dat
 
 ## Analysis and Challenges
 
-The analysis consisted of two parts, a review of outcomes based on kickstarter (a) launch dates, and (b) goals (outlined below). Data, consisting of several performance types in addition to plays, were in MS Excel format provided by the organizers of the University of Texas Data Analytics and Visualization Boot Camp. Data were analyzed using a MS Excel pivot table with the followoing result: 
+The analysis consisted of two parts, a review of outcomes based on kickstarter (a) launch dates, and (b) goals (outlined below). Data, consisting of several performance types in addition to plays, were in MS Excel format provided by the organizers of the University of Texas Data Analytics and Visualization Boot Camp. Data were analyzed using MS Excel pivot tables and appropriate formulas.  
 
 ### Analysis of Outcomes Based on Launch Date
 
