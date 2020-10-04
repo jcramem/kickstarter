@@ -13,6 +13,7 @@ The analysis consisted of two parts, a review of outcomes based on kickstarter (
 The initial investigation looked at plays with kickstarter campaigns beginning in January 2011 through April 2017 in 21 countries. Data were grouped by starting month for all years
 
 
+
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
