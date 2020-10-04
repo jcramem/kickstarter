@@ -34,8 +34,10 @@ Test
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
+![Theater Outcomes vs Launch](Theater_Outcomes_vs_Launch.png).
 - What can you conclude about the Outcomes based on Goals?
 
+![Outcomes_Based_on_Goal](Outcomes_Based_on_Goal.png).
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
