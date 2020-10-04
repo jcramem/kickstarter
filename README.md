@@ -24,9 +24,7 @@ The second investigation also looked at plays with kickstarter campaigns beginni
 
 Several fields were added to the original MS Excel file that may require lookup or reference. Specifically, the user must be comfortable: (a) separating one column into two using *Test to Column* under the *Data* tab; (b) converting Unix timestamps; and (c) using the *YEAR, COUNTIFS, and SUM* functions.  
 
-The following illustrates the correct result of separating columns (red), converting Unix timestamps (blue), and the *YEAR* function (green).    
-
-![Excel_Field_Additions](Excel_Field_Additions.png).
+The following illustrates the correct result of separating columns, converting Unix timestamps, and the *YEAR* function.    
 
 ## Results
 
