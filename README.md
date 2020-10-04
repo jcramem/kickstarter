@@ -10,13 +10,13 @@ The analysis consisted of two parts, a review of outcomes based on kickstarter (
 
 ### Analysis of Outcomes Based on Launch Date
 
-The initial investigation looked at plays with kickstarter campaigns beginning in January 2011 through April 2017 in 21 countries that were either successful, failed, or canceled. Data were grouped by starting month for all years and counted according to final outcome. The resulting MS Excel pivot table should look like this: 
+The initial investigation looked at plays with kickstarter campaigns beginning in January 2011 through April 2017 in 21 countries that were either successful, failed, or canceled. Results were grouped by starting month for all years and counted according to final outcome. The resulting MS Excel pivot table looked like this: 
 
 ![Theater Outcomes vs Launch_Pivot](Theater_Outcomes_vs_Launch_Pivot.png).
 
 ### Analysis of Outcomes Based on Goals
 
-Test 
+The second investigation also looked at plays with kickstarter campaigns beginning in January 2011 through April 2017 in 21 countries that were either successful, failed, or canceled. In this case, data were grouped by initial goal and counted according to final outcome. The percentage of cases for each final outcome was also calculated. The resulting MS Excel pivot table looked like this: 
 
 
 ### Challenges and Difficulties Encountered
@@ -38,4 +38,5 @@ The following illustrates the correct result of separating columns (red), conver
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
+
 
