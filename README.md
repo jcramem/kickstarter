@@ -10,7 +10,7 @@ The analysis consisted of two parts, a review of outcomes based on kickstarter (
 
 
 
-Several fields were added to the original MS Excel file that may require lookup or reference. Specifically, the user must be comfortable: (a) separating one column into two using *Test to Column* under the *Data* tab (see red below); (b) converting Unix timestamps (see blue below); and (c) using the *Year* function (see green below).  
+Several fields were added to the original MS Excel file that may require lookup or reference. Specifically, the user must be comfortable: (a) separating one column into two using *Test to Column* under the *Data* tab; (b) converting Unix timestamps; and (c) using the *YEAR, COUNTIFS, and SUM* functions.  
 
 ![Excel_Field_Additions](Excel_Field_Additions.png).
 
