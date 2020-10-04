@@ -8,12 +8,6 @@ The purpose of this project is to document campaign outcomes based on launch dat
 
 The analysis consisted of two parts, a review of outcomes based on kickstarter (a) launch dates, and (b) goals (outlined below). Data, consisting of several performance types in addition to plays, were in MS Excel format provided by the organizers of the University of Texas Data Analytics and Visualization Boot Camp. Data were analyzed using a MS Excel pivot table with the followoing result: 
 
-Several fields were added to the original MS Excel file that may require lookup or reference. Specifically, the user must be comfortable: (a) separating one column into two using *Test to Column* under the *Data* tab; (b) converting Unix timestamps; and (c) using the *YEAR, COUNTIFS, and SUM* functions.  
-
-The following illustrates the correct result of separating columns (red), converting Unix timestamps (blue), and the *YEAR* function (green).    
-
-![Excel_Field_Additions](Excel_Field_Additions.png).
-
 ### Analysis of Outcomes Based on Launch Date
 
 The initial investigation looked at plays with kickstarter campaigns beginning in January 2011 through April 2017 in 21 countries that were either successful, failed, or canceled. Data were grouped by starting month for all years and counted according to final outcome. The resulting MS Excel pivot table should look like this: 
@@ -26,6 +20,12 @@ Test
 
 
 ### Challenges and Difficulties Encountered
+
+Several fields were added to the original MS Excel file that may require lookup or reference. Specifically, the user must be comfortable: (a) separating one column into two using *Test to Column* under the *Data* tab; (b) converting Unix timestamps; and (c) using the *YEAR, COUNTIFS, and SUM* functions.  
+
+The following illustrates the correct result of separating columns (red), converting Unix timestamps (blue), and the *YEAR* function (green).    
+
+![Excel_Field_Additions](Excel_Field_Additions.png).
 
 ## Results
 
