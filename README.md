@@ -22,13 +22,13 @@ The second investigation also looked at plays with kickstarter campaigns beginni
 
 ### Challenges and Difficulties Encountered
 
-Several fields were added to the original MS Excel file that may require lookup or reference. Specifically, the user must be comfortable: (a) separating one column into two using *Test to Column* under the *Data* tab; (b) converting Unix timestamps; and (c) using the *YEAR, COUNTIFS, and SUM* functions.  
-
-The following illustrates the correct result of separating columns, converting Unix timestamps, and the *YEAR* function.    
+Several fields were added to the original MS Excel file that may require lookup or reference. Specifically, users seeking to replicate must be comfortable: (a) separating one column into two using *Test to Column* under the *Data* tab; (b) converting Unix timestamps; and (c) using the *YEAR, COUNTIFS, and SUM* functions.  
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+The following shows outcomes for kickstarter campaigns launched in each months for plays. The chart suggests:
+
+* 
 
 ![Theater Outcomes vs Launch](Theater_Outcomes_vs_Launch.png).
 - What can you conclude about the Outcomes based on Goals?
