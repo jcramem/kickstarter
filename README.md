@@ -31,8 +31,7 @@ Several fields were added to the original MS Excel file that may require lookup 
 Looking at kickstarter theater launches by month reveals the following:
 - The highest success rate for theater campaigns were for those launched in May, with more than two-thirds being successful. Following May in success rate were June and July. 
 - After May, the success rate for theater campaigns decreases steadily as the year goes on, for the most part, culminating with roughly the same number (and percentage) of campaigns succeeding as failing in December.   
-
-![Theater Outcomes vs Launch](Theater_Outcomes_vs_Launch.png).
+![Theater Outcomes vs Launch](Theater_Outcomes_vs_Launch.png)
 
 ### Outcomes Based on Goals
 
@@ -40,14 +39,11 @@ Looking at kickstarter play launches by month reveals the following:
 - The lower the goal for play kickstarter campaigns, the greater the chance of success. Efforts with a goal of less than $1,000 were the most successful (76%), followed by campaigns with a goal between $1,000 and $4,999 (73%).  
 - No kickstarter campaigns were canceled, suggesting efforts came to fruition at a greater rate than other subcategories. 
 - Interestingly, there were a larger number of plays with a goal of $50,000 or greater than some smaller ranges, with the vast majority failing. This somewhat confirms the larger the goal, the less likely it will succeed. 
-
 ![Outcomes_Based_on_Goal](Outcomes_Based_on_Goal.png).
 
-- What are some limitations of this dataset?
-- There were very few plays with a goal between $25,000 and $50,000, making generalizations about their potential for success difficult. 
-- There were very few plays with a goal between $25,000 and $50,000, making generalizations about their potential for success difficult. 
+### Limitations
+- A majority of the data described more recent Kickstarter campaigns. Thus, outside variables limited to these years may have had an effect on outcomes not seen in earlier years.  - In the analysis of outcomes based on goals, there were very few plays with a goal between $25,000 and $50,000. This makes generalizations about their potential for success difficult. Given that plays were one of the most popular campaigns, this issue likely affects the analysis of other, less popular campaigns as well. 
 
-- What are some other possible tables and/or graphs that we could create?
-
-
-
+### Possibilities 
+- As noted above, these analyses looked at the results of all countries together. Of interest would be if campaign outcomes differ by country of origin. 
+- Another approach that I would recommend is looking at the difference in outcomes based on the length of the campaign. Does it matter how long a campaign lasts, or if there is a critical point in which campaigns start losing efficacy?  
