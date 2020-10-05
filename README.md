@@ -44,7 +44,8 @@ Looking at kickstarter play launches by month reveals the following:
 ![Outcomes_Based_on_Goal](Outcomes_Based_on_Goal.png)
 
 ### Limitations
-- A majority of the data described more recent Kickstarter campaigns. Thus, outside variables limited to these years may have had an effect on outcomes not seen in earlier years.  - In the analysis of outcomes based on goals, there were very few plays with a goal between $25,000 and $50,000. This makes generalizations about their potential for success difficult. Given that plays were one of the most popular campaigns, this issue likely affects the analysis of other, less popular campaigns as well. 
+- A majority of the data described more recent Kickstarter campaigns. Thus, outside variables limited to these years may have had an effect on outcomes not seen in earlier years.  
+- In the analysis of outcomes based on goals, there were very few plays with a goal between $25,000 and $50,000. This makes generalizations about their potential for success difficult. Given that plays were one of the most popular campaigns, this issue likely affects the analysis of other, less popular campaigns as well. 
 
 ### Possibilities 
 - As noted above, these analyses looked at the results of all countries together. Of interest would be if campaign outcomes differ by country of origin. 
