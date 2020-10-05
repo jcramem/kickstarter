@@ -27,8 +27,8 @@ Several fields were added to the original MS Excel file that may require lookup 
 ## Results
 
 A review of the following kickstarter launches by month for plays reveals the following:
--The highest success rate for play campaigns were launched in May, as more than two-thirds were successful.
--After May, the success rate for play campaigns decreases steadily as the year goes on, for the most part, culminating with roughly the same number (and percentage) of campaigns succeeding as failing in December.   
+- The highest success rate for play campaigns were for those launched in May, with more than two-thirds being successful. Following May in success rate were June and July. 
+- After May, the success rate for play campaigns decreases steadily as the year goes on, for the most part, culminating with roughly the same number (and percentage) of campaigns succeeding as failing in December.   
 
 ![Theater Outcomes vs Launch](Theater_Outcomes_vs_Launch.png).
 - What can you conclude about the Outcomes based on Goals?
